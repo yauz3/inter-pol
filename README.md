@@ -8,10 +8,10 @@ Note that the code was implemented and tested on a Linux operating system only.
 ## How to set up the environment
 We have provided an Anaconda environment file for easy setup.
 If you do not have Anaconda installed, you can get Miniconda from [here](https://docs.conda.io/en/latest/miniconda.html).
-Create the `kat_env-env` environment using the following command:
+Create the `inter_pol` environment using the following command:
 ```bash
-conda env create -n kat_env -f environment.yml
-conda activate kat_env
+conda env create -n inter_pol -f environment.yml
+conda activate inter_pol
 ```
 
 # In order to install requirement packages
